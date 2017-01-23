@@ -30,6 +30,7 @@ public class TodoActivity extends Activity implements View.OnClickListener{
         btnVider.setOnClickListener(this);
         editText = (EditText) findViewById(R.id.editText1);
         textView = (TextView) findViewById(R.id.textView1);
+        //iuhiu
     }
 
     @Override
